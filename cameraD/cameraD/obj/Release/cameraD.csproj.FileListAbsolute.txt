@@ -1,0 +1,14 @@
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\bin\Release\cameraD.exe.config
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\bin\Release\cameraD.exe
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\bin\Release\cameraD.pdb
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\bin\Release\Camera_NET.dll
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\bin\Release\DirectShowLib-2010.dll
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\obj\Release\cameraD.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\obj\Release\cameraD.Form1.resources
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\obj\Release\cameraD.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\obj\Release\cameraD.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\obj\Release\cameraD.exe
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\obj\Release\cameraD.pdb
+E:\最近设计\摄像头浊度程序\cameraD\cameraD\bin\Release\cameraD.exe.config
+E:\最近设计\摄像头浊度程序\cameraD\cameraD\obj\Release\cameraD.exe
+E:\最近设计\摄像头浊度程序\cameraD\cameraD\obj\Release\cameraD.pdb

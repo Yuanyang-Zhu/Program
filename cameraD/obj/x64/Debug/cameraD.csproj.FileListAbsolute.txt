@@ -1,0 +1,13 @@
+E:\cameraD\cameraD\bin\x64\Debug\cameraD.exe.config
+E:\cameraD\cameraD\bin\x64\Debug\cameraD.exe
+E:\cameraD\cameraD\bin\x64\Debug\cameraD.pdb
+E:\cameraD\cameraD\bin\x64\Debug\Camera_NET.dll
+E:\cameraD\cameraD\bin\x64\Debug\DirectShowLib-2010.dll
+E:\cameraD\cameraD\obj\x64\Debug\cameraD.Form1.resources
+E:\cameraD\cameraD\obj\x64\Debug\cameraD.Properties.Resources.resources
+E:\cameraD\cameraD\obj\x64\Debug\cameraD.csproj.GenerateResource.cache
+E:\cameraD\cameraD\obj\x64\Debug\cameraD.csproj.CoreCompileInputs.cache
+E:\cameraD\cameraD\obj\x64\Debug\cameraD.csproj.CopyComplete
+E:\cameraD\cameraD\obj\x64\Debug\cameraD.exe
+E:\cameraD\cameraD\obj\x64\Debug\cameraD.pdb
+E:\cameraD\cameraD\obj\x64\Debug\cameraD.csprojAssemblyReference.cache

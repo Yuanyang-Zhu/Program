@@ -1,0 +1,10 @@
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\bin\Debug\cameraD.exe.config
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\bin\Debug\cameraD.exe
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\bin\Debug\cameraD.pdb
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\bin\Debug\Camera_NET.dll
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\bin\Debug\DirectShowLib-2010.dll
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\obj\Debug\cameraD.Form1.resources
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\obj\Debug\cameraD.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\obj\Debug\cameraD.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\obj\Debug\cameraD.exe
+d:\用户目录\我的文档\visual studio 2012\Projects\cameraD\cameraD\obj\Debug\cameraD.pdb
