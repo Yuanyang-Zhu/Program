@@ -299,7 +299,7 @@ namespace cameraD
             else
             {
                 fY = 7.787 * Y + 16.0 / 116.0;
-                fL1 = 903.3 * Y;
+                fL1 = 903.3 * fY;
             }
 
             if (X > 0.008856) fX = Math.Pow(X, 1.0 / 3.0);
